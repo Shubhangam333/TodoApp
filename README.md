@@ -31,4 +31,4 @@ command to run the file
 
 Type node app.js
 
-Open your browser and run the file @http://localhost:3000
+Open your browser and run the file where you defines the port

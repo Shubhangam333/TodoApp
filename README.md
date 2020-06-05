@@ -7,28 +7,13 @@ Requirements
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 Node
 
-    Node installation on Windows
+--In order to run the app, install the dependencies first with...
 
- Just go on official Node.js website and download the installer. Also, be sure to have git available in your PATH, 
- npm might need it (You can find git here).
+npm install
 
-To create package.json
-type-npm init
+--Then run the app with
 
-install express-
+npm start
 
-npm install express --save
- 
-install EJS-
-npm install ejs
-
-install bower-
-npm install bower
-
-copy these files
-
-command to run the file
-
-Type node app.js
-
-Open your browser and run the file where you defines the port
+//OR if you have nodemon installed (npm install -g nodemon)
+nodemon
